@@ -4,6 +4,8 @@ Première question, comment êtes-vous arrivés jusqu'ici ???
 
 Deuxième ques... Non, à mon tour maintenant !
 
+https://pagespeed-insights.herokuapp.com?url=your_website_url
+
 &nbsp;
 
 Petite présentation de l'occupant des lieux 🕵️‍♂️
@@ -84,4 +86,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Useful ressources to customize your Github profile :
+
+https://github.com/madushadhanushka/github-readme
+https://github.com/rzashakeri/beautify-github-profile?tab=readme-ov-file
 -->
