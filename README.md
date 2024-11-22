@@ -57,9 +57,13 @@ En vrai, sur Github, mon code ça ressemble à ça :
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ludovicdean&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+&nbsp;
+
 J'ai un blog (oui je me répète 😅), mais comme je suis sympa, je ne garde pas son code pour moi, vous pouvez le retrouver ici !
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ludovicdean&repo=devendevenir)](https://github.com/ludovicdean/devendevenir)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ludovicdean&repo=astro-blog)](https://github.com/ludovicdean/devendevenir)
+
+&nbsp;
 
 ## Où me trouver ?
 
