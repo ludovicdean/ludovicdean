@@ -18,7 +18,7 @@ Petite présentation de l'occupant des lieux 🕵️‍♂️
 
 - Tous les outils que je découvre, j'aime les partager, via mon blog :
 
-![DevEnDevenir](https://img.shields.io/badge/DevEnDevenir-FACC15?style=for-the-badge&logoColor=white)
+[![DevEnDevenir](https://img.shields.io/badge/DevEnDevenir-FACC15?style=for-the-badge&logoColor=white)](https://ludovicdean.github.io/devendevenir)
 
 - Et vous l'aurez deviné, j'aime bien écrire 🖋
 
