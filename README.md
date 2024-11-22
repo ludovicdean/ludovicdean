@@ -55,7 +55,7 @@ Petite présentation de l'occupant des lieux 🕵️‍♂️
 
 En vrai, sur Github, mon code ça ressemble à ça :
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ludovicdean&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ludovicdean&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 J'ai un blog (oui je me répète 😅), mais comme je suis sympa, je ne garde pas son code pour moi, vous pouvez le retrouver ici !
 
