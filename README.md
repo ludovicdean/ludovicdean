@@ -1,5 +1,5 @@
 ## Bienvenue aux curieux qui furètent par ici !
-[![Badge](https://img.shields.io/badge/votre_texte-votre_message-couleur)](link="")
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludovicdean&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 Première question, comment êtes-vous arrivés jusqu'ici ???
 
 Deuxième ques... Non, à mon tour maintenant !
