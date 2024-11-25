@@ -61,6 +61,10 @@ En vrai, sur Github, mon code ça ressemble à ça :
 
 &nbsp;
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludovicdean&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+&nbsp;
+
 J'ai un blog (oui je me répète 😅), mais comme je suis sympa, je ne garde pas son code pour moi, vous pouvez le retrouver ici !
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ludovicdean&repo=astro-blog)](https://github.com/ludovicdean/devendevenir)
