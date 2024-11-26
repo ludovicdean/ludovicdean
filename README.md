@@ -4,8 +4,6 @@ Première question, comment êtes-vous arrivés jusqu'ici ???
 
 Deuxième ques... Non, à mon tour maintenant !
 
-https://pagespeed-insights.herokuapp.com?url=your_website_url
-
 &nbsp;
 
 Petite présentation de l'occupant des lieux 🕵️‍♂️
